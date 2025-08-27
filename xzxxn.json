@@ -19,7 +19,7 @@
           "val": "1",
           "type": "text",
           "desc": "默认第一个用户兑换，第二个填2，以此类推"
-        },
+        ],
         {
           "id": "QieHuang_GiftId",
           "name": "商品id",
